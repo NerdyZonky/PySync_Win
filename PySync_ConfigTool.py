@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'marco'
+__author__ = 'NerdyZonky'
 
 import os
 from files import GetFiles

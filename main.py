@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'marco'
+__author__ = 'NerdyZonky'
 from rsync import rsync
 from files import GetFiles
 from files import ReadFilesRsync
