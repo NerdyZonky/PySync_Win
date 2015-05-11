@@ -11,7 +11,7 @@ https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20150319/G
 
 you can use Windows Task Scheduler to use automatic updates
 
-RUNS PYSYNC AUTOMATICALLY
+RUN PYSYNC AUTOMATICALLY
 
 You can launch PySync automatically if you use Windows Task Scheduler or any similar programm.
 use /data/main.py
