@@ -1,10 +1,22 @@
 # PySync_Win
 
-Download and unzip PySync_Win.
-Go into the PySync_Win folder,launch PySync_Launcher.bat and follow the instructions.
-You can place the folder wherever you want to.
+Before you run PySync, make sure you have installed following components:
 
-You can use Windows taskplanner or similar tools to schedule Backupjobs or Syncs.
+PYTHON ENVIRONMENT
+https://www.python.org/downloads/
+
+
+GIT(automatic updates)
+https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20150319/Git-1.9.5-preview20150319.exe
+
+you can use Windows Task Scheduler to use automatic updates
+
+RUNS PYSYNC AUTOMATICALLY
+
+You can launch PySync automatically if you use Windows Task Scheduler or any similar programm.
+use /data/main.py
+
+Make suer PySync is placed in C:\\
 
 
 
