@@ -1,1 +1,0 @@
-runas /user:hh "C:\Users\hh\Downloads\PySync_Win-master\schedule\register\register_schedule_sync.ps1"
