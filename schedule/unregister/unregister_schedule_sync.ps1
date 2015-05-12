@@ -1,0 +1,3 @@
+﻿Unregister-ScheduledJob PySync_Synchronize
+
+pause
